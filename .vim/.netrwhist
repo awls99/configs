@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/awls99/TestC/trunk/lib'
+let g:netrw_dirhist_2='/home/awls99/TestC/trunk/lib/class_redef'
+let g:netrw_dirhist_3='/home/awls99/TestC/trunk/testes/features'
+let g:netrw_dirhist_4='/home/awls99/TestC/trunk/testes'
+let g:netrw_dirhist_5='/home/awls99/TestC/trunk'
+let g:netrw_dirhist_6='/home/awls99/TestC/trunk/lib'
+let g:netrw_dirhist_7='/home/awls99/TestC/trunk/lib/blocks_requires'
