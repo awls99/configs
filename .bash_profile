@@ -8,6 +8,7 @@ fi
 # User specific environment and startup programs
 # http://proxy.ptin.corppt.com:8080
 export http_proxy=http://proxy.ptin.corppt.com:8080
+export https_proxy=$http_proxy
 export no_proxy=127.0.0.1,localhost,10.112.*,*.corppt.com
 
 PATH=$PATH:$HOME/.local/bin:$HOME/bin
